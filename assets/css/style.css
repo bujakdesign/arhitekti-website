@@ -1,3 +1,52 @@
+/*-----------------------------------------------------------------------
+
+    This code was written by Collabix.
+
+    You can view this project in our portfolio at www.collabix.com
+
+-----------------------------------------------------------------------*/
+
+/*
+
+Feel: ;
+Color:  #3b3b3b
+
+
+*/
+
+/*--------------------------------------------------------------
+------------------------- GENERAL RULES ------------------------
+--------------------------------------------------------------*/
+
+.main{
+  margin-top: 30%;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+/*--------------------------------------------------------------
+------------------------- NAVBAR RULES -------------------------
+--------------------------------------------------------------*/
 
 .navbar-link{
     color: #000;
@@ -13,25 +62,15 @@
     padding: 11px 0;
 }
 
+/*--------------------------------------------------------------
+------------------ MINI-PROJECT OVERVIEW -----------------------
+--------------------------------------------------------------*/
 
-.container {
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-  }
-  @media (min-width: 768px) {
-    .container {
-      width: 750px;
-    }
-  }
-  @media (min-width: 992px) {
-    .container {
-      width: 970px;
-    }
-  }
-  @media (min-width: 1200px) {
-    .container {
-      width: 1170px;
-    }
-  }
+.project-heading-mini{
+  
+}
+
+.project-image-mini{
+  
+}
+
